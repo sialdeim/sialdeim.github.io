@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sialdeim.github.io/sitemap.html.gz
+Sitemap: https://sialdeim.github.io/app/sitemap.html.gz
+Sitemap: https://sialdeim.github.io/assets/sitemap.html.gz
+Sitemap: https://sialdeim.github.io/css/sitemap.html.gz
+Sitemap: https://sialdeim.github.io/data/sitemap.html.gz
+Sitemap: https://sialdeim.github.io/includes/sitemap.html.gz
+Sitemap: https://sialdeim.github.io/item/sitemap.html.gz
+Sitemap: https://sialdeim.github.io/src/sitemap.html.gz
